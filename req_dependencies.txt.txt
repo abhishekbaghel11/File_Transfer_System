@@ -1,0 +1,10 @@
+The modules which are required are:--> 
+
+tkinter
+threading
+socket
+os
+time
+pickle
+logging
+netifaces(install using conda prompt command -->[ conda install -c anaconda netifaces ]
