@@ -35,7 +35,7 @@ To use the File Transfer System, follow these steps:
 ```shell
   install_dependencies.exe
 ```
-7. You have to install the `netifaces` module of python using the anaconda prompt. Open the anaconda prompt and type the following command:
+7. You have to install the `netifaces` module of python using the anaconda prompt (if `pip install netifaces` doesn't work) . Open the anaconda prompt and type the following command:
 ```shell
   conda install -c anaconda netifaces
 ```
