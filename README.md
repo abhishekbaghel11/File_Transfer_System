@@ -45,7 +45,7 @@ To use the File Transfer System, follow these steps:
 
 10. Also enable the public and private connections for `python.exe` by going to `Windows Defender Firewall>Allow an app or feature through Windows defender firewall` and then click on change settings and check all the boxes(public,private,domain) for `python.exe` as shown in the image below:
 
-![HEllo](https://filestore.community.support.microsoft.com/api/images/ddca82b8-6dc9-420d-a62e-cdd8e5483dac?upload=true)
+![python.exe](https://filestore.community.support.microsoft.com/api/images/ddca82b8-6dc9-420d-a62e-cdd8e5483dac?upload=true)
 
 11. Open a terminal or command prompt and navigate to the project directory.
 
@@ -65,6 +65,13 @@ The following Python modules are required to run the File Transfer System (can b
 - pickle
 - logging
 - netifaces
+
+## Screenshots
+
+- For the main gui window:-->
+![Main GUI window](https://drive.google.com/uc?export=view&id=1iDIJ-xg2gcWdPs-3LVJaxI6zjVONHDzd)
+- For the transfer and receiver interfaces:-->
+![Transfer and Receiver](https://drive.google.com/uc?export=view&id=1tSYLhlMlMl6Q6xBhm2Xlbex3Qa0hj7q1) 
 
 ## Contact
 
