@@ -41,13 +41,17 @@ To use the File Transfer System, follow these steps:
 ```
 8. Ensure you have Python and anaconda installed on your system.
 
-9. Make the firewall system of your device to allow the tcp and udp connections on the port 12345, you can refer to the following link: https://pureinfotech.com/open-port-firewall-windows-10/#:~:text=To%20open%20a%20Windows%20firewall,select%20the%20%E2%80%9CPort%E2%80%9D%20option.  
+9. Make the firewall system of your device to allow the tcp and udp connections on the port 12345, you can refer to the following link: https://pureinfotech.com/open-port-firewall-windows-10/#:~:text=To%20open%20a%20Windows%20firewall,select%20the%20%E2%80%9CPort%E2%80%9D%20option.
 
-10. Open a terminal or command prompt and navigate to the project directory.
+10. Also enable the public and private connections for `python.exe` by going to `Windows Defender Firewall>Allow an app or feature through Windows defender firewall` and then click on change settings and check all the boxes(public,private,domain) for `python.exe` as shown in the image below:
 
-11. Run the main executable file to start the File Transfer System.
+![HEllo](https://filestore.community.support.microsoft.com/api/images/ddca82b8-6dc9-420d-a62e-cdd8e5483dac?upload=true)
 
-12. Please ensure that both the devices are connected to the same wifi/lan network.
+11. Open a terminal or command prompt and navigate to the project directory.
+
+12. Run the main executable file to start the File Transfer System.
+
+13. Please ensure that both the devices are connected to the same wifi/lan network.
 
 ## Dependencies
 
